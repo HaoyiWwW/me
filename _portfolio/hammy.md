@@ -4,8 +4,8 @@ excerpt: "Hammy 🐹 that I love."
 collection: portfolio
 ---
 
-![肉肉是世界上最可爱的熊宝宝!](images/profile-pic.png "肉松松 🐹")
+![肉肉是世界上最可爱的熊宝宝!](/images/profile-pic.png "肉松松 🐹")
 
-![肉肉也爱喝奶茶!](images/milktea-lover.png "肉松松 🐹 与 🧋")
+![肉肉也爱喝奶茶!](/images/milktea-lover.png "肉松松 🐹 与 🧋")
 
-![肉肉在思考人生!](images/emoster.png "肉松松 🐹 的emo时刻")
+![肉肉在思考人生!](/images/emoster.png "肉松松 🐹 的emo时刻")
