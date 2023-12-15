@@ -4,12 +4,12 @@ excerpt: "Photos that I took around the globe."
 collection: portfolio
 ---
 
-<img src='/images/serenity.png' width="100%" height="100%">
+![The sky. The sea. The beach.](images/serenity.png "serenity")
 
-<img src='/images/silver-clamming.png' width="100%" height="100%">
+![The sky. The clam. The beach.](images/silver-clamming.png "clam")
 
-<img src='/images/somewhere-nowhere.png' width="100%" height="100%">
+![The cloud. The road. The sea.](images/somewhere-nowhere.png "somewhere or nowhere")
 
-<img src='/images/wind-sound.png' width="100%" height="100%">
+![The sky. The wind. The sound.](images/wind-sound.png "wind sound")
 
-<img src='/images/colorful-market.png' width="100%" height="100%">
+![The sky. The market. The boat.](images/colorful-market.png "colorful market")
