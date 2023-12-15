@@ -8,12 +8,12 @@ date: 2023-04-01
 location: "Remote"
 ---
 
-From 2023 April - 2023 June, as a section leader, I:
+From 2023 April - 2023 June, as a section leader, I:<br>
 • Taught Python fundamentals over the span of five weeks to 15 students from diverse backgrounds and
-skill levels through weekly hour-long sessions.
-• Facilitated interactive and collaborative learning by using online platform Zoom.
+skill levels through weekly hour-long sessions.<br>
+• Facilitated interactive and collaborative learning by using online platform Zoom.<br>
 • Assessed students’ understanding and progress by assigning and grading weekly assignments and
-quizzes, and providing individualized feedback and support.
+quizzes, and providing individualized feedback and support.<br>
 • Received high ratings and positive comments from students on their learning experience and
 satisfaction.
 
