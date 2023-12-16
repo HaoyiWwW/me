@@ -13,8 +13,10 @@ redirect_from:
 📚  Ed.M. in Human Development and Education, Harvard Graduate School of Education <br>
     B.A. in Mathematics, Carleton College
 
-🔬  How do people learn math? <br>
-    My research interest lies in the intersection of mathematics, education, and technology. Specifically, I am interested in exploring factors influencing math learning and teaching and designing accessible ITS for everyday classrooms to help students acquire math problem-solving skills.
+🔬  What affect people's learning of math? <br>
+    My research interests include mathematics education. In particular, I am intellectually curious about covariances and predictors of efficient mathematical problem-solving. <br>
+    My current favorite technique involves usage of structural equation modeling in testing hypotheses about causal effects among observed or proxies for latent variables, especially in model generation. <br>
+    From analyzing data in everyday classrooms, I intend to contribute to the design of technology interventions as well as bridging the gap between theory and practice.
 
 📣  Currently, I am actively looking for summer research opportunities in Mathematics Education and Educational Technology.
 
