@@ -13,10 +13,10 @@ redirect_from:
 📚  Ed.M. in Human Development and Education, Harvard Graduate School of Education <br>
 📚  B.A. in Mathematics, Carleton College
 
-🔬  What factors play a role in people's learning of math? <br>
-    My research interests include mathematics education. In particular, I am intellectually curious about covariances and predictors of efficient mathematical problem-solving. <br>
-    My current favorite technique involves usage of structural equation modeling in testing hypotheses about causal effects among observed or proxies for latent variables, especially in model generation. <br>
-    From analyzing data in everyday classrooms, I intend to contribute to the design of technology interventions as well as bridging the gap between theory and practice.
+🔬  What affects people's learning of math? <br>
+    My research interests are learning analytics and mathematics education. In particular, I am intellectually curious about covariances and predictors of efficient math learning and teaching with intelligent tutoring systems. <br>
+    My current favorite technique involves usage of structural equation modeling in testing hypotheses about causal effects among observed or proxies for latent variables. <br>
+    From analyzing data in and out of classrooms, my research intends to contribute to learning designs as well as bridge the gap between theory and practice.
 
 📣  Currently, I am actively looking for summer research opportunities in Mathematics Education and Educational Technology.
 
