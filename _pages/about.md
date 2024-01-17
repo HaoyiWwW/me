@@ -8,19 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-👩‍💻  I'm a first-year graduate student studying Computer and Information Technology at UPenn.
+👩‍💻  I'm a graduate student studying Computer and Information Technology at UPenn.
 
 📚  Ed.M. in Human Development and Education, Harvard Graduate School of Education <br>
 📚  B.A. in Mathematics, Carleton College
 
-🔬  What affects people's learning of math? <br>
-    My research interests are learning analytics and mathematics education. In particular, I am intellectually curious about covariances and predictors of efficient math learning and teaching with intelligent tutoring systems. <br>
-    My current favorite technique involves usage of structural equation modeling in testing hypotheses about causal effects among observed or proxies for latent variables. <br>
-    From analyzing data in and out of classrooms, my research intends to contribute to learning designs as well as bridge the gap between theory and practice.
+🔬  How do human beings acquire the ability to do mathematics? <br>
+    My research interests include mathematical cognition and mathematical problem-solving. In particular, I am intellectually curious about the development of complex mathematical understanding, the factors that explain individual differences in mathematical competence, and the broader social context of mathematical learning. <br>
+    My current favorite technique involves the use of structural equation modeling to test hypotheses about causal effects among observed variables or proxies for latent variables. <br>
+    Through the analysis of data both in and out of classrooms, my research aims to contribute to learning designs and bridge the gap between theory and practice.
 
-📣  Currently, I am actively looking for summer research opportunities in Mathematics Education and Educational Technology.
+📣  Currently, I am actively looking for summer research opportunities in Mathematics Education.
 
 
-For more info
+For more info/collaboration
 ------
-Contact me at haoyiw@seas.upenn.edu
+Please contact me at haoyiw@seas.upenn.edu
