@@ -14,8 +14,7 @@ redirect_from:
 📚  B.A. in Mathematics, Carleton College
 
 🔬  How do human beings acquire the ability to do mathematics? <br>
-    My research interests include mathematical cognition and mathematical problem-solving. In particular, I am intellectually curious about the development of complex mathematical understanding, the factors that explain individual differences in mathematical competence, and the broader social context of mathematical learning. <br>
-    My current favorite technique involves the use of structural equation modeling to test hypotheses about causal effects among observed variables or proxies for latent variables. <br>
+    My research interests include mathematical cognition and mathematical problem-solving. In particular, I am intellectually curious about the abstraction of mathematical structures, psychological and conative factors that explain individual differences in mathematical competence, and the broader social context of mathematical learning. <br>
     Through the analysis of data both in and out of classrooms, my research aims to contribute to learning designs and bridge the gap between theory and practice.
 
 📣  Currently, I am actively looking for summer research opportunities in Mathematics Education.
